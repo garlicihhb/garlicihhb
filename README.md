@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garlicihhb
 - 👀 I’m interested in games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on (none)
 - 📫 How to reach me iCloud email
 - 😄 Pronouns: he/him
